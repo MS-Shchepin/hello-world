@@ -1,8 +1,8 @@
 # hello-world
 firstGitHubRepository
 
-# H1 Big H1 Title
-# H3 Its about some changes of readme file for testing gitHub features
+# Big H1 Title
+### Its about some changes of readme file for testing gitHub features
 **a bit of boldic text...**
 *a bit of italic*
 write some awesome code next:
@@ -15,7 +15,7 @@ this.blessing = godBless;
 }
 }`
 
-# H3 Why it looks cool:
+### Why it looks cool:
 1. It was created in the wake of God
 2. First try is cool by definition
 3. Its Java class, come on!
